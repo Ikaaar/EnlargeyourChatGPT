@@ -1,0 +1,10 @@
+pre{
+    overflow-x: unset!important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+pre .bg-black{
+    width: 80vw;
+}
